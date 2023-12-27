@@ -1,14 +1,8 @@
-**PRs are highly welcome**
+**Implementation of CCS'2022 paper "Hidden in Plain Sight: Exploring Encrypted Channels in Android Apps"**
 
- - Don't hesitate to open new issues for any question/issue to discuss.
-   This tool has created for Android 12 on pixel devices primarily.
-  -   However, it can easily be adopted for other Android versions or
-   vendors by modifying `device.py`. Mostly, window and activity
-   variables need to be changed for other platforms.
-   - Documentation and
-   usage instructions will be published soon
-
-
+- For inspiration only: This tool is not ready to use out of the box and requires some modification.
+  - It mainly requires modification of the device.py file. Primarily, focus on the window and activity.
+- There are no plans to maintain, develop, or provide support for this tool.
 -----
 ```
 flame:/ # mkdir /data/crontab
